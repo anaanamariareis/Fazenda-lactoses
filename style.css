@@ -10,7 +10,7 @@ header{
     padding: 10px;
 }
 body{
-    background-image: url("imagens/fundo\ site.jpg") 100%;
+    background-image: url("imagens/fundo\ site.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
