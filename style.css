@@ -9,3 +9,9 @@ header{
     justify-content: space-between;
     padding: 10px;
 }
+section {
+    display: flex;
+    align-items: center;
+    background-image: url(imagens/fundo\ site.jpg) 100%;
+    color: black;
+}
