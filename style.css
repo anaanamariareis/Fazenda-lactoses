@@ -29,3 +29,7 @@ div{
 .coelhogigante{
     width: 8%;
 }
+        .div-imagens{
+            display: grid;
+            grid-template-columns: 70% 30%;
+        }
